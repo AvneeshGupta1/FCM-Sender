@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FCM Sender</string>
+    <string name="menu_send_notification">Send Notification</string>
+    <string name="menu_settings">Settings</string>
+    <string name="label_server_token">Server Token</string>
+    <string name="label_device_token">Device Token</string>
+    <string name="hint_enter_server_token">Enter server token</string>
+    <string name="edit_server_token">Edit Server token</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_device_token">Edit Device token</string>
+    <string name="label_enter_token_here">Enter token here</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="label_enter_key">Key</string>
+    <string name="label_value">value</string>
+    <string name="menu_add">Add</string>
+</resources>
